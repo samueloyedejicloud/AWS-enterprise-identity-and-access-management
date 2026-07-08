@@ -26,8 +26,8 @@ The diagram below illustrates the enterprise identity and access management arch
                   │                                           │
         AWS IAM Identity Center                    AWS Organizations
                   │                                           │
-         ┌────────┴────────┐                    ┌──────────────┴──────────────┐
-         │                 │                    │                             │
+         ┌────────┴────────┐                    ┌─────────────┴──────────────┐
+         │                 │                    │                            │
  Permission Sets      Identity Store      Development Account         Support Account
          │                 │                    │                             │
          │                 │                    │                             │
@@ -35,8 +35,8 @@ The diagram below illustrates the enterprise identity and access management arch
          │                 │                    │                             │
          └────────────┬────┘                    │                             │
                       │                         │                             │
-               Administrators Group            │                             │
-                      │                        │                             │
+               Administrators Group             │                             │
+                      │                         │                             │
                       └──────────────Assigned Across AWS Accounts─────────────┘
 
 Permission Sets
