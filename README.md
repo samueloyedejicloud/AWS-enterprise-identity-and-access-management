@@ -53,4 +53,4 @@ Permission Sets
 
 The diagram below illustrates the enterprise identity and access management architecture implemented for Latency IT Solutions.
 
-![AWS IAM Architecture](diagrams/aws-iam-architecture.png)
+![AWS IAM Architecture](diagram/aws-iam-architecture.png)
